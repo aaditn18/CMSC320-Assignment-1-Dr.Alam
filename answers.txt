@@ -1,0 +1,12 @@
+Q1: Why might be consider using git?
+
+Answer: Git is an extremely useful version control system which all programmers
+        should use to keep track of their coding projects. With git, you can keep 
+        track of the history of your coding project and what changes you have made
+        and when. This is especially useful with large projects in which a small 
+        change may break a few things or cause cascading errors. Git keeps a log 
+        of all your committed changes and ensures you can retrieve an older 
+        version of the project. Additionally, git also allows you to collaborate
+        with other team members, such that each member has a local copy of the 
+	project on their machines, and can push, pull, and merge changes once 
+	they are done with a part/section of the work.
