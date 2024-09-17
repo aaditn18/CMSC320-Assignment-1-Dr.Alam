@@ -37,3 +37,11 @@ Answer: Merging preserves the history of both branches, showing where
         be risky for shared branches and might obscure the actual development 
         context. Rebasing is often favored for personal branches or when a 
         streamlined commit history is prioritized.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I’m hoping to learn and become proficient with the following skills: 
+        Data Science, Git, Pandas, Database, SQL, Probability, 
+        Data Visualization, Data Exploration, Machine Learning, 
+        Classifications, Decision Trees, Regression, Feature Engineering, 
+        Neural Networks, Image Processing, Natural Language Processing (NLP)
