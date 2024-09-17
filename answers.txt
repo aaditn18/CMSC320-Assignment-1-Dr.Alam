@@ -22,3 +22,18 @@ Answer: Data science can be applied to various fields, such as healthcare.
         can help healthcare providers make more informed decisions, optimize 
         resource allocation, and enhance the overall quality of care.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the history of both branches, showing where
+        they diverged and then rejoined. This creates a complete record but
+        can lead to a complex history with many merge points, especially in 
+        active projects. Merging is generally preferred for shared branches 
+        or when maintaining a clear history of individual contributions is 
+        crucial.
+        Rebasing is like picking up a series of commits and placing them on 
+        a different foundation. It rewrites history to make it look like the 
+        feature branch was developed directly on top of the target branch, 
+        resulting in a cleaner, linear history. However, this rewriting can 
+        be risky for shared branches and might obscure the actual development 
+        context. Rebasing is often favored for personal branches or when a 
+        streamlined commit history is prioritized.
